@@ -22,6 +22,7 @@ The Color Game challenges players to guess the correct color out of a set of squ
 
 ## ▶️ PLAY GAME 👇
 
+https://saomeiza01.github.io/Color-Game/
 
 
 ## 📂 Folder Structure
