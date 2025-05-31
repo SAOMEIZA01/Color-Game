@@ -4,7 +4,7 @@ A fun and interactive color guessing game built with HTML, CSS, and JavaScript.
 
 ## 📌 Overview
 
-The Color Game challenges players to guess the correct color out of a set of squares based on a randomly generated RGB color value. It's a great way to sharpen your color recognition skills!
+The Color Game challenges players to guess the correct color out of a set of rectangular based on a randomly generated RGB color value. It's a great way to sharpen your color recognition skills!
 
 ## 🚀 Features
 
